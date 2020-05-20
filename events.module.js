@@ -443,4 +443,4 @@ function unwrapListeners(arr) {
   return ret;
 }
 
-exports default EventEmitter;
+export default EventEmitter;
